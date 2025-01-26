@@ -173,7 +173,7 @@ sections:
         textAlign: center
   - subtitle: Award winning enterprises trust us
     images:
-      - url: /images/Hero_MotoCorp.webp
+      - url: /images/Hero_MotoCorp (1).webp
         altText: Empathy logo
         type: ImageBlock
         elementId: '7'
