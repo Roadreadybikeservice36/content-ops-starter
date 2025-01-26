@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: Are you looking for a reliable and affordable bike service & repair?
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
