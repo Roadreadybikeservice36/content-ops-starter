@@ -176,6 +176,7 @@ sections:
       - url: /images/Hero_MotoCorp.webp
         altText: Empathy logo
         type: ImageBlock
+        elementId: '7'
       - url: /images/wellster-logo.svg
         altText: Wellster logo
         type: ImageBlock
