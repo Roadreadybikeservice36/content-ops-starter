@@ -185,8 +185,7 @@ sections:
       - url: /images/zzzwbw-KTM-Logo.webp
         altText: Telus logo
         type: ImageBlock
-      - url: /images/vise-logo.svg
-        altText: Vise logo
+      - altText: Vise logo
         type: ImageBlock
       - url: /images/contenful-logo.svg
         altText: Contentful logo
