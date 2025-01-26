@@ -7,7 +7,7 @@ sections:
       text: Are you looking for a reliable and affordable bike service & repair?
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: call now
     text: |
       giyfuyuyf
     actions:
