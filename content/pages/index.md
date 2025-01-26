@@ -180,8 +180,7 @@ sections:
       - url: /images/wellster-logo.svg
         altText: Wellster logo
         type: ImageBlock
-      - url: /images/sanity-logo.svg
-        altText: Sanity logo
+      - altText: Sanity logo
         type: ImageBlock
       - url: /images/zzzwbw-KTM-Logo.webp
         altText: Telus logo
