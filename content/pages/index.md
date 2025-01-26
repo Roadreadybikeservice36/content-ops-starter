@@ -180,7 +180,7 @@ sections:
       - url: /images/wellster-logo.svg
         altText: Wellster logo
         type: ImageBlock
-      - url: /images/telus-logo.svg
+      - url: /images/bajaj-motorcycle3842 (1).webp
         altText: Telus logo
         type: ImageBlock
       - url: /images/sanity-logo.svg
